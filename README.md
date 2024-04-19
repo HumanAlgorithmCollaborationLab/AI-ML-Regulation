@@ -6,9 +6,9 @@
 
 **Files:**
 
-1. *AIML Device Data.xls:* This file includes the data extracted by study investigators for FDA-cleared AI/ML devices. Variables include Device Name, Company Name, Submission Number, Approval Pathway, Date of Final Decision, FDA Risk Class, Study Design, Data Collection Method, Sites, Sample Size, Online Data Availability, and EU Approval (yes/no).
+1. *AI:ML Device Data.xls:* This file includes the data extracted by study investigators for FDA-cleared AI/ML devices. Variables include Device Name, Company Name, Submission Number, Approval Pathway, Date of Final Decision, FDA Risk Class, Study Design, Data Collection Method, Sites, Sample Size, Online Data Availability, and EU Approval (yes/no).
 
-2. *AIML Devices Supplemental Material.pdf:* This file includes three eTables and one eFigure:
+2. *AI:ML Devices Supplemental Material.pdf:* This file includes three eTables and one eFigure:
 
   ETable 1: Classification System for Study Designs for AI/ML Devices
   
