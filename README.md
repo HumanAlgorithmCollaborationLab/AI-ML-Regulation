@@ -10,10 +10,10 @@
 
 2. *AIML Devices Supplemental Material.pdf:* This file includes three eTables and one eFigure:
 
-ETable 1: Classification System for Study Designs for AI/ML Devices
-
-EFigure 1: Safety Standards Reported by FDA-Cleared AI/ML Devices
-
-ETable 2: Safety Risks of AI/ML Medical Devices Reported in Decision Summaries
-
-ETable 3: Characteristics of Recalls of AI/ML Medical Devices
+  ETable 1: Classification System for Study Designs for AI/ML Devices
+  
+  EFigure 1: Safety Standards Reported by FDA-Cleared AI/ML Devices
+  
+  ETable 2: Safety Risks of AI/ML Medical Devices Reported in Decision Summaries
+  
+  ETable 3: Characteristics of Recalls of AI/ML Medical Devices
